@@ -5,7 +5,7 @@
 
 Este é um simples jogo de atirar bolinhas em quadrados, criado com HTML, CSS e JavaScript. O objetivo do jogo é disparar bolinhas em direção a quadrados que aparecem na tela, destruindo-os ao acertá-los e acumulando pontos. O jogo foi desenvolvido para ser leve, divertido e fácil de entender, proporcionando uma ótima introdução ao desenvolvimento de jogos na web.
 
- <img width=30% src=""></img> 
+ <img width=70% src="https://github.com/Lucasbarbosa332/Square-War/blob/main/square-wars/dist/Captura%20de%20tela%202024-12-09%20231443.png?raw=true"></img> 
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
