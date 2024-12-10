@@ -31,4 +31,5 @@ Para rodar o jogo localmente, basta seguir os passos abaixo:
 
 1. Clone este repositório em sua máquina local:
 
- 
+   ```bash
+   git clone https://github.com/Lucasbarbosa332/Square-War.git
